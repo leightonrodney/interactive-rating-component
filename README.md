@@ -27,7 +27,7 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- Javscript
+- JavaScript
 - Flexbox
 - [React](https://reactjs.org/) - JS library
 - [TailwindCSS](https://tailwindcss.com/) - TailwindCSS
